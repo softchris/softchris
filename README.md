@@ -4,6 +4,17 @@ Welcome to my profile page. I like building tools and helping people by writing 
 
 Using languages and runtimes like JavaScript, Node.js, .NET, Python and PowerShell.
 
+## About me
+
+✨ Senior Cloud Developer Advocate at Microsoft
+
+✨ Google Developer Expert
+
+✨ Published author
+
+✨ Enjoys building apps in frameworks like Angular, React, Vue and Svelte. Also into building APIs using REST or GraphQL.
+
+## Projects 
 
 Check out some of my projects here on GH:
 
@@ -26,7 +37,7 @@ Check out some of my projects here on GH:
 
 🔭 I’m currently working on creating more curriculums like this one [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-📫 How to reach me: 
+## Contact
 
 👉 [Twitter](https://twitter.com/chris_noring)
 👉 [Dev.to blog](https://dev.to/softchris)
