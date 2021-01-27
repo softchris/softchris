@@ -2,6 +2,8 @@
 
 Welcome to my profile page. I like building tools and helping people by writing blogs and free books.
 
+Using languages and runtimes like JavaScript, Node.js, .NET, Python and PowerShell.
+
 
 Check out some of my projects here on GH:
 
